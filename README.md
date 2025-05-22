@@ -16,11 +16,11 @@ The program can branch using one of the following instructions if the value of t
 
 Wires that are out of reach or other unrecognized symbols are ignored as no-ops.
 
-| Unicode | Symbol | Meaning |
+| Unicode | Symbol | Instruction |
 | ------- | ------ | ------- |
 | U+27A7  | `➧`    | program start |
-| U+2501  | `━`    | horizontal wire |
-| U+2503  | `┃`    | vertical wire | 
+| U+2501  | `━`    | horizontal flow |
+| U+2503  | `┃`    | vertical flow | 
 | U+250F  | `┏`    | up to right or left to down |
 | U+2513  | `┓`    | right to down or up to left |
 | U+2517  | `┗`    | down to right or left to up |
@@ -29,8 +29,8 @@ Wires that are out of reach or other unrecognized symbols are ignored as no-ops.
 | U+252B  | `┫`    | branching left |
 | U+2533  | `┳`    | branching down |
 | U+253B  | `┻`    | branching up |
-| U+2191  | `A-Z`  | increment |
-| U+2193  | `a-z`  | decrement |
+|         | `A-Z`  | increment |
+|         | `a-z`  | decrement |
 
 ## Examples
 
