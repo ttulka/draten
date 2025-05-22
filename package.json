@@ -1,0 +1,27 @@
+{
+  "name": "draten",
+  "version": "1.0.0",
+  "description": "Draten is a 2D esoteric programming language",
+  "main": "draten.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttulka/draten.git"
+  },
+  "keywords": [
+    "2d",
+    "esolang",
+    "js"
+  ],
+  "author": "Tomas Tulka (ttulka)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttulka/draten/issues"
+  },
+  "homepage": "https://github.com/ttulka/draten#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
