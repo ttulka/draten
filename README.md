@@ -77,7 +77,7 @@ Multiplication (C = A × B)
    ┗┛    ┗┛
 ```
 
-Hello World (' ' => 1, 'd' => 2, 'e' => 3, 'H' => 4, 'l' => 5, 'o' => 6, 'r' => 7, 'W' => 8):
+Hello World (` ` => 1, `d` => 2, `e` => 3, `H` => 4, `l` => 5, `o` => 6, `r` => 7, `W` => 8):
 ```
 KKJJJJJIIIIIIIHHHHHHGGGGGGGG┓  
    ➧AAAABBBCCCCCDDDDDEEEEEE┓┃    ┏━━┓        ┏F┓
